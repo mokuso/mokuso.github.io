@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Rich Walchuck</title>
-    <link href="https://mokuso.github.io/mokuso.github.io/feed.xml" rel="self" />
-    <link href="https://mokuso.github.io/mokuso.github.io" />
+    <link href="https://mokuso.github.io/feed.xml" rel="self" />
+    <link href="https://mokuso.github.io" />
     <updated>2025-05-21T07:56:13-04:00</updated>
     <author>
         <name>Rich Walchuck</name>
     </author>
-    <id>https://mokuso.github.io/mokuso.github.io</id>
+    <id>https://mokuso.github.io</id>
 
     <entry>
         <title>Securing Your Software Supply Chain: The Power of Threat Intelligence</title>
         <author>
             <name>Rich Walchuck</name>
         </author>
-        <link href="https://mokuso.github.io/mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html"/>
-        <id>https://mokuso.github.io/mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html</id>
-        <media:content url="https://mokuso.github.io/mokuso.github.io/media/posts/1/tqblog.png" medium="image" />
+        <link href="https://mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html"/>
+        <id>https://mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html</id>
+        <media:content url="https://mokuso.github.io/media/posts/1/tqblog.png" medium="image" />
 
         <updated>2023-07-11T07:44:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mokuso.github.io/mokuso.github.io/media/posts/1/tqblog.png" alt="" />
+                        <img src="https://mokuso.github.io/media/posts/1/tqblog.png" alt="" />
                     4-steps-to-a-comprehensive-security-approach
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mokuso.github.io/mokuso.github.io/media/posts/1/tqblog.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mokuso.github.io/media/posts/1/tqblog.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://www.threatq.com/blog/4-steps-to-a-comprehensive-security-approach">4-steps-to-a-comprehensive-security-approach</a></p>
             ]]>
         </content>
@@ -37,20 +37,20 @@
         <author>
             <name>Rich Walchuck</name>
         </author>
-        <link href="https://mokuso.github.io/mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html"/>
-        <id>https://mokuso.github.io/mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html</id>
-        <media:content url="https://mokuso.github.io/mokuso.github.io/media/posts/3/mousejack.png" medium="image" />
+        <link href="https://mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html"/>
+        <id>https://mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html</id>
+        <media:content url="https://mokuso.github.io/media/posts/3/mousejack.png" medium="image" />
 
         <updated>2016-02-23T07:53:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mokuso.github.io/mokuso.github.io/media/posts/3/mousejack.png" alt="" />
+                        <img src="https://mokuso.github.io/media/posts/3/mousejack.png" alt="" />
                     https://www.tenable.com/blog/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability-updated
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mokuso.github.io/mokuso.github.io/media/posts/3/mousejack.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mokuso.github.io/media/posts/3/mousejack.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="Ghost in the Machine: “MouseJack” Wireless Mouse and Keyboard Injection Vulnerability">https://www.tenable.com/blog/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability-updated</a></p>
             ]]>
         </content>
@@ -60,20 +60,20 @@
         <author>
             <name>Rich Walchuck</name>
         </author>
-        <link href="https://mokuso.github.io/mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html"/>
-        <id>https://mokuso.github.io/mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html</id>
-        <media:content url="https://mokuso.github.io/mokuso.github.io/media/posts/4/shellshock.png" medium="image" />
+        <link href="https://mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html"/>
+        <id>https://mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html</id>
+        <media:content url="https://mokuso.github.io/media/posts/4/shellshock.png" medium="image" />
 
         <updated>2014-09-25T07:54:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mokuso.github.io/mokuso.github.io/media/posts/4/shellshock.png" alt="" />
+                        <img src="https://mokuso.github.io/media/posts/4/shellshock.png" alt="" />
                     https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mokuso.github.io/mokuso.github.io/media/posts/4/shellshock.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mokuso.github.io/media/posts/4/shellshock.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting">https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting</a></p>
             ]]>
         </content>
