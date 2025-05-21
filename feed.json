@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rich Walchuck",
+    "description": "",
+    "home_page_url": "https://mokuso.github.io/mokuso.github.io",
+    "feed_url": "https://mokuso.github.io/mokuso.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rich Walchuck"
+    },
+    "items": [
+        {
+            "id": "https://mokuso.github.io/mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html",
+            "url": "https://mokuso.github.io/mokuso.github.io/securing-your-software-supply-chain-the-power-of-threat-intelligence.html",
+            "title": "Securing Your Software Supply Chain: The Power of Threat Intelligence",
+            "summary": "4-steps-to-a-comprehensive-security-approach",
+            "content_html": "<p><a href=\"https://www.threatq.com/blog/4-steps-to-a-comprehensive-security-approach\">4-steps-to-a-comprehensive-security-approach</a></p>",
+            "image": "https://mokuso.github.io/mokuso.github.io/media/posts/1/tqblog.png",
+            "author": {
+                "name": "Rich Walchuck"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-11T07:44:00-04:00",
+            "date_modified": "2025-05-21T07:49:34-04:00"
+        },
+        {
+            "id": "https://mokuso.github.io/mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html",
+            "url": "https://mokuso.github.io/mokuso.github.io/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html",
+            "title": "Ghost in the Machine: “MouseJack” Wireless Mouse and Keyboard Injection Vulnerability",
+            "summary": "https://www.tenable.com/blog/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability-updated",
+            "content_html": "<p><a href=\"Ghost in the Machine: “MouseJack” Wireless Mouse and Keyboard Injection Vulnerability\">https://www.tenable.com/blog/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability-updated</a></p>",
+            "image": "https://mokuso.github.io/mokuso.github.io/media/posts/3/mousejack.png",
+            "author": {
+                "name": "Rich Walchuck"
+            },
+            "tags": [
+            ],
+            "date_published": "2016-02-23T07:53:00-05:00",
+            "date_modified": "2025-05-21T07:53:50-04:00"
+        },
+        {
+            "id": "https://mokuso.github.io/mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html",
+            "url": "https://mokuso.github.io/mokuso.github.io/httpswwwtenablecomblogdetecting-shellshock-with-lce-process-accounting.html",
+            "title": "Detecting Shellshock with Process Accounting",
+            "summary": "https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting",
+            "content_html": "<p><a href=\"https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting\">https://www.tenable.com/blog/detecting-shellshock-with-lce-process-accounting</a></p>",
+            "image": "https://mokuso.github.io/mokuso.github.io/media/posts/4/shellshock.png",
+            "author": {
+                "name": "Rich Walchuck"
+            },
+            "tags": [
+            ],
+            "date_published": "2014-09-25T07:54:00-04:00",
+            "date_modified": "2025-05-21T07:56:13-04:00"
+        }
+    ]
+}
