@@ -5,6 +5,18 @@
 <loc>https://walchuck.org/</loc>
 </url>
 <url>
+<loc>https://walchuck.org/automating-zap-dast-scans-using-github-actions.html</loc>
+<lastmod>2025-05-22T16:00:49-04:00</lastmod>
+<image:image>
+<image:loc>https://walchuck.org/media/posts/5/SARIF-Dashbaord-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://walchuck.org/media/posts/5/SARIF-Dashbaord.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://walchuck.org/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability.html</loc>
 <lastmod>2025-05-21T08:27:13-04:00</lastmod>
 <image:image>
@@ -22,7 +34,7 @@
 </url>
 <url>
 <loc>https://walchuck.org/securing-your-software-supply-chain-the-power-of-threat-intelligence.html</loc>
-<lastmod>2025-05-21T08:25:37-04:00</lastmod>
+<lastmod>2025-05-22T16:01:31-04:00</lastmod>
 <image:image>
 <image:loc>https://walchuck.org/media/posts/1/tqblog.png</image:loc>
 <image:title><![CDATA[]]></image:title>
