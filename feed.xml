@@ -3,7 +3,7 @@
     <title>Rich Walchuck</title>
     <link href="https://walchuck.org/feed.xml" rel="self" />
     <link href="https://walchuck.org" />
-    <updated>2025-07-18T15:02:00-04:00</updated>
+    <updated>2025-07-18T15:21:38-04:00</updated>
     <author>
         <name>Rich Walchuck</name>
     </author>
@@ -163,16 +163,19 @@
         </author>
         <link href="https://walchuck.org/leveraging-ai-for-transforming-cybersecurity-defenses/"/>
         <id>https://walchuck.org/leveraging-ai-for-transforming-cybersecurity-defenses/</id>
+        <media:content url="https://walchuck.org/media/posts/6/rag-2.png" medium="image" />
 
         <updated>2024-12-06T14:40:00-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://walchuck.org/media/posts/6/rag-2.png" alt="" />
                     Every 11 seconds, a business falls victim to a ransomware attack, costing organizations an estimated $20 billion annually. In the face of such relentless and rapidly evolving cyber threats, traditional defenses are proving insufficient. Enter Artificial Intelligence (AI), a transformative force now reshaping the cybersecurity&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><strong><img loading="lazy"  src="https://walchuck.org/media/posts/6/rag.png" alt="" width="2048" height="2048" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://walchuck.org/media/posts/6/responsive/rag-xs.png 640w ,https://walchuck.org/media/posts/6/responsive/rag-sm.png 768w ,https://walchuck.org/media/posts/6/responsive/rag-md.png 1024w ,https://walchuck.org/media/posts/6/responsive/rag-lg.png 1366w ,https://walchuck.org/media/posts/6/responsive/rag-xl.png 1600w ,https://walchuck.org/media/posts/6/responsive/rag-2xl.png 1920w"></figure>Every 11 seconds, a business falls victim to a ransomware attack, costing organizations an estimated $20 billion annually.</strong> In the face of such relentless and rapidly evolving cyber threats, traditional defenses are proving insufficient. Enter Artificial Intelligence (AI), a transformative force now reshaping the cybersecurity landscape. Businesses are increasingly turning to AI not just to react, but to <em>proactively</em> identify, analyze, and neutralize sophisticated attacks. This post will explore the opportunities AI presents for bolstering modern businesses' defenses, while also candidly addressing the significant hurdles organizations must navigate. Crucially, we'll delve into a powerful and increasingly practical approach: <strong>Retrieval-Augmented Generation (RAG)</strong>, which offers a more efficient path to leveraging AI's power than traditional model training.</p>
+                    <p><img src="https://walchuck.org/media/posts/6/rag-2.png" class="type:primaryImage" alt="" /></p>
+                <p data-pm-slice="0 0 []"><strong>Every 11 seconds, a business falls victim to a ransomware attack, costing organizations an estimated $20 billion annually.</strong> In the face of such relentless and rapidly evolving cyber threats, traditional defenses are proving insufficient. Enter Artificial Intelligence (AI), a transformative force now reshaping the cybersecurity landscape. Businesses are increasingly turning to AI not just to react, but to <em>proactively</em> identify, analyze, and neutralize sophisticated attacks. This post will explore the opportunities AI presents for bolstering modern businesses' defenses, while also candidly addressing the significant hurdles organizations must navigate. Crucially, we'll delve into a powerful and increasingly practical approach: <strong>Retrieval-Augmented Generation (RAG)</strong>, which offers a more efficient path to leveraging AI's power than traditional model training.</p>
 <p>AI offers a game-changing approach to cybersecurity, moving beyond traditional rule-based systems to proactively identify and respond to threats. Here's a look at some key opportunities:</p>
 <ul>
 <li>
